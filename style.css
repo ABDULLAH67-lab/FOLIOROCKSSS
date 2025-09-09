@@ -1413,7 +1413,7 @@ a:hover {
     .innerbox1 {
         display: flex;
         align-items: center;
-        width: 60%;
+        width: 50%;
         margin: 10px;
     }
 
@@ -1938,4 +1938,5 @@ footer{
     margin: 10% 35% 10% 35%;
 
 }
+
 
